@@ -16,3 +16,16 @@ My CV is available in [PDF](https://github.com/Jack-Analyst5/CV/blob/main/Jack_d
 
 ## TABLE OF CONTENTS
 - [About](https://github.com/Jack-Analyst5/CV/blob/main/README.md#about)
+## 📊 Power BI Project
+
+### 🔹 Overview
+This report analyzes customer behavior and sales trends.
+
+### 🔹 Dashboard Preview
+![Dashboard](images/dashboard.png)
+
+### 🔹 Live Report
+👉 [View Interactive Dashboard](https://your-link)
+
+### 🔹 Download
+👉 [Download PBIX](./report.pbix)
