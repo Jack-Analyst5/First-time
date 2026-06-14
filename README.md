@@ -16,9 +16,6 @@ My CV is available in [PDF](https://github.com/Jack-Analyst5/CV/blob/main/Jack_d
 
 ## TABLE OF CONTENTS
 - [About](https://github.com/Jack-Analyst5/CV/blob/main/README.md#about)
-
-- [Advanced Analytics Statistical modelling](https://github.com/Jack-Analyst5/repo/blob/main/notebooks/my_notebook.ipynb)
-
 - [Python](https://github.com/Jack-Analyst5/First-time/blob/main/Python)
 ## PYTHON
 ## Project Overview
@@ -51,4 +48,8 @@ The dataset is stored in Excel and imported into a Microsoft Fabric Notebook. It
 
 ### Results
 Using Python and EDA techniques, I explored relationships between variables and identified key factors that influence outcomes. Visualizations helped highlight trends, correlations, and patterns within the dataset.
+
+
+
+- [Advanced Analytics Statistical modelling](https://github.com/Jack-Analyst5/repo/blob/main/notebooks/my_notebook.ipynb)
 
