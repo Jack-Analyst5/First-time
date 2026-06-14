@@ -20,6 +20,7 @@ My CV is available in [PDF](https://github.com/Jack-Analyst5/CV/blob/main/Jack_d
 - [Advanced Analytics Statistical modelling](https://github.com/Jack-Analyst5/repo/blob/main/notebooks/my_notebook.ipynb)
 
 - [Python](https://github.com/Jack-Analyst5/First-time/blob/main/Python)
+## PYTHON
 ## Project Overview
 This project is part of my journey in learning Python.
 
