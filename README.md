@@ -18,3 +18,5 @@ My CV is available in [PDF](https://github.com/Jack-Analyst5/CV/blob/main/Jack_d
 - [About](https://github.com/Jack-Analyst5/CV/blob/main/README.md#about)
 
 - [Advanced Analytics Statistical modelling](https://github.com/Jack-Analyst5/repo/blob/main/notebooks/my_notebook.ipynb)
+
+- [Python](
