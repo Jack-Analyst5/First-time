@@ -23,7 +23,7 @@ My CV is available in [PDF](https://github.com/Jack-Analyst5/CV/blob/main/Jack_d
   - [Power BI]
  
     
-## Project Task (
+[Project Task](https://github.com/Jack-Analyst5/PROJECT-TASKS-)
 This project is part of my journey in learning Python.
 
 ### Goal
