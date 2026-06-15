@@ -16,15 +16,15 @@ My CV is available in [PDF](https://github.com/Jack-Analyst5/CV/blob/main/Jack_d
 
 ## TABLE OF CONTENTS
 - [About](https://github.com/Jack-Analyst5/CV/blob/main/README.md#about)
-- Projects
+- [Project Task](https://github.com/Jack-Analyst5/PROJECT-TASKS-)
   - [Python](https://github.com/Jack-Analyst5/First-time/blob/main/Python)
     -- [Regression Models](https://github.com/Jack-Analyst5/Regression-Models)
   - [SQL](https://github.com/Jack-Analyst5/SQL)
   - [Power BI]
  
     
-[Project Task](https://github.com/Jack-Analyst5/PROJECT-TASKS-)
-- This project is part of my journey in learning Python.
+
+- PYTHON
 
 ### Goal
 To determine which factors contribute the most to a movie's success.
