@@ -18,7 +18,7 @@ My CV is available in [PDF](https://github.com/Jack-Analyst5/CV/blob/main/Jack_d
 - [About](https://github.com/Jack-Analyst5/CV/blob/main/README.md#about)
 - Projects
   - [Python](https://github.com/Jack-Analyst5/First-time/blob/main/Python)
-    -- Regression Models
+    -- [Regression Models](https://github.com/Jack-Analyst5/Regression-Models)
 ## Project Overview
 This project is part of my journey in learning Python.
 
