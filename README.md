@@ -24,7 +24,7 @@ My CV is available in [PDF](https://github.com/Jack-Analyst5/CV/blob/main/Jack_d
  
     
 [Project Task](https://github.com/Jack-Analyst5/PROJECT-TASKS-)
-This project is part of my journey in learning Python.
+- This project is part of my journey in learning Python.
 
 ### Goal
 To determine which factors contribute the most to a movie's success.
