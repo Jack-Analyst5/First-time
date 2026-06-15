@@ -16,8 +16,10 @@ My CV is available in [PDF](https://github.com/Jack-Analyst5/CV/blob/main/Jack_d
 
 ## TABLE OF CONTENTS
 - [About](https://github.com/Jack-Analyst5/CV/blob/main/README.md#about)
-- [Python](https://github.com/Jack-Analyst5/First-time/blob/main/Python)
-## PYTHON
+- Projects
+  a.[Power BI]
+  b.[SQL]
+  c.[Python](https://github.com/Jack-Analyst5/First-time/blob/main/Python)
 ## Project Overview
 This project is part of my journey in learning Python.
 
