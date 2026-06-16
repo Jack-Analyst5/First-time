@@ -35,7 +35,7 @@ Access to the full project details—including processes, technical implementati
 
 Additionally, permission from Mission Ready HQ is required before any detailed information can be disclosed, as no prior approval has been granted. This is to ensure that all project materials are handled in accordance with organisational guidelines and confidentiality requirements.
 
-- [PYTHON](https://github.com/Jack-Analyst5/First-time/blob/main/Python)
+# [PYTHON](https://github.com/Jack-Analyst5/First-time/blob/main/Python)
 
 ### Goal
 To determine which factors contribute the most to a movie's success.
