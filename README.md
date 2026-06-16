@@ -70,12 +70,15 @@ Using Python and EDA techniques, I explored relationships between variables and 
  House Price Prediction: MLR vs Random Forest
 
 ## Overview
+
 This project compares the performance of two regression models, Multiple Linear Regression (MLR) and Random Forest (RF), in predicting house prices. The aim is to determine which model produces more accurate predictions based on the dataset.
+
 ---
 
 ## Goal
 
 The study involves building predictive models using Multiple Linear Regression (MLR) and Random Forest (RF) techniques. The performance of these models is then evaluated using Root Mean Squared Error (RMSE) as the main metric. After assessing each model, their accuracy levels are compared to determine which performs better. Finally, different methods and approaches are identified to further improve overall model performance.
+
 ---
 
 ## Project Structure
