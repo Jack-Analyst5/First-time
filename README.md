@@ -130,10 +130,10 @@ These are some examples of my SQL tasks that I needed to do during the course. I
 ## SQL Tasks
 
 Here are some examples of SQL queries and schema designs I created:
-
-![Schema Design 1](sql1.png)
-![Schema Design 2](sql2.png)
-![SQL Queries](sql3.png)
+https://github.com/Jack-Analyst5/SQL/blob/main/README.md
+![Schema Design 1](https://github.com/Jack-Analyst5/SQL/blob/main/README.md)
+![Schema Design 2](https://github.com/Jack-Analyst5/SQL/blob/main/README.md)
+![SQL Queries](https://github.com/Jack-Analyst5/SQL/blob/main/README.md)
 
 # [Power BI](https://github.com/Jack-Analyst5/Power-BI)
 Power BI TASK
