@@ -27,9 +27,10 @@ My CV is available in [PDF](https://github.com/Jack-Analyst5/CV/blob/main/Jack_d
 
 ---
 
+---
 
 # [PROJECT-TASKS](https://github.com/Jack-Analyst5/PROJECT-TASKS)
-# Introduction
+# [Introduction](https://github.com/Jack-Analyst5/PROJECT-TASKS)
 
 This repository showcases my work outputs developed using Microsoft Fabric Notebooks during my studies at Mission Ready.
 The projects demonstrate my hands-on experience in data analysis, including data cleaning, exploration, and visualisation. Each project includes a high-level overview of its objectives, scope, and key outcomes to provide a clear understanding of the work.
