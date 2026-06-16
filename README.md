@@ -151,7 +151,7 @@ Part of the course is to develop a Power BI dashboard, and the following screens
 
 ![Customer Insights](https://github.com/Jack-Analyst5/Power-BI/blob/main/PowerBI_3.png)
 
-![Year-to-Date Analysis](PowerBI_4.png)
+![Year-to-Date Analysis](https://github.com/Jack-Analyst5/Power-BI/blob/main/PowerBI_4.png)
 
 ![Forecast](PowerBI_5.png)
 
