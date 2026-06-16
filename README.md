@@ -29,7 +29,7 @@ My CV is available in [PDF](https://github.com/Jack-Analyst5/CV/blob/main/Jack_d
 
 
 
-# (PROJECT-TASKS](https://github.com/Jack-Analyst5/PROJECT-TASKS)
+# [PROJECT-TASKS](https://github.com/Jack-Analyst5/PROJECT-TASKS)
 # Introduction
 These are the tasks that I have undertaken as part of my journey as a Data Analyst. At this stage, I have provided a high-level overview of the project to outline its purpose, scope, and key outcomes. This overview is intended to give a general understanding of the work without going into detailed methodologies, data structures, or in-depth analysis.
 
