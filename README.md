@@ -132,7 +132,7 @@ These are some examples of my SQL tasks that I needed to do during the course. I
 Here are some examples of SQL queries and schema designs I created:
 
 
-![Schema Design 1](SQL/Schema%20Design%201.png)
+![Schema Design 1](https://github.com/Jack-Analyst5/SQL/blob/main/sql1.png)
 ![Schema Design 2](SQL/Schema%20Design%202.png)
 ![SQL Queries](SQL/SQL%20Queri
 
