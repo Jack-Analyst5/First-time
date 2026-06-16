@@ -20,7 +20,7 @@ My CV is available in [PDF](https://github.com/Jack-Analyst5/CV/blob/main/Jack_d
   - [Python](https://github.com/Jack-Analyst5/First-time/blob/main/Python)
     -- [Regression Models](https://github.com/Jack-Analyst5/Regression-Models)
   - [SQL](https://github.com/Jack-Analyst5/SQL)
-  - [Power BI]
+  - [Power BI](https://github.com/Jack-Analyst5/Power-BI)
  
     
 
