@@ -1,23 +1,19 @@
+## Exploratory Data Analysis
 Project Overview
-This project is part of my journey in learning Python.
+This project is part of my journey in learning Python. 
 
 Goal
-To determine which factors contribute the most to a movie's success.
+Application of Python for basic operations, Pandas for data manipulation, and Matplotlib/Seaborn for visualizations. 
 
-Description
-This project demonstrates my ability to apply Python for data analysis. I use:
+Dataset
+The dataset represents transaction data from a retail business, specifically sales data for products sold in various stores. 
 
-Python for core programming
-Pandas for data manipulation
-Matplotlib and Seaborn for data visualization
-The dataset is stored in Excel and imported into a Microsoft Fabric Notebook. It represents real-world retail transaction data, including sales, invoices, and product information across multiple stores.
-
-Skills Applied
-Data cleaning
-Exploratory Data Analysis (EDA)
-Correlation analysis
-Hypothesis testing
-Data visualization
+Tasks included: 
+Merging DataFrames
+Exploratory Data Analysis (EDA)- Conduct EDA by analysing the data, identifying patterns, trends, and outliers.
+Data Visualisation – Scatter Plot, Histogram, and Line Chart
+Correlation and Data Insights 
+Grouping and Aggregating
 
 Technologies
 Python
