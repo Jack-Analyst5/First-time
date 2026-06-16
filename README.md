@@ -132,8 +132,8 @@ These are some examples of my SQL tasks that I needed to do during the course. I
 Here are some examples of SQL queries and schema designs I created:
 
 
-![Schema Design 1](./SQL/sql1.png)
-![Schema Design 2](./SQL/sql1.png)
+![Schema Design 1](sql1.png)
+![Schema Design 2](sql1.png)
 ![SQL Queries](sql3.png)
 
 
