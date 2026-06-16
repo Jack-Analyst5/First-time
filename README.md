@@ -7,7 +7,7 @@ My first repository on Github.
 
 Hi, I'm Jack! I’m a teacher by profession with over 15 years of experience in education and data management, now transitioning into a career in Data Analytics. Through my recent training, I’ve developed strong skills in SQL, Excel, Power BI and Python, along with hands-on experience in data cleaning, analysis, and visualisation. 
 
-I decided to enroll with Mission Ready HQ to deepen my knowledge in data analytics, where I gained practical experience working with large datasets (5K–45K+ records), building dashboards, performing KPI reporting, and uncovering insights to support data-driven decision-making. 
+I decided to enroll with Mission Ready HQ to deepen my knowledge in data analytics, where I gained practical experience working with large datasets (5K–85K+ records), building dashboards, performing KPI reporting, and uncovering insights to support data-driven decision-making. 
 
 I’m passionate about using data to solve real-world problems and continuously improving my analytical skills. This repository showcases my skills, shares part of my projects, and tracks my progress in Data Analytics / Data Science related topics.
 
