@@ -20,7 +20,7 @@ My CV is available in [PDF](https://github.com/Jack-Analyst5/CV/blob/main/Jack_d
 - [Project Task](https://github.com/Jack-Analyst5/PROJECT-TASKS-)
   - [Introduction](https://github.com/Jack-Analyst5/PROJECT-TASKS)
   - [Python](https://github.com/Jack-Analyst5/First-time/blob/main/Python)
-    -- [Regression Models](https://github.com/Jack-Analyst5/Regression-Models)
+    -- [Machine Learning](https://github.com/Jack-Analyst5/Machine-Learning-Regression-Models))
   - [SQL](https://github.com/Jack-Analyst5/SQL)
   - [Power BI](https://github.com/Jack-Analyst5/Power-BI)
  
@@ -65,9 +65,10 @@ The dataset is stored in Excel and imported into a Microsoft Fabric Notebook. It
 ### Results
 Using Python and EDA techniques, I explored relationships between variables and identified key factors that influence outcomes. Visualizations helped highlight trends, correlations, and patterns within the dataset.
 
-# [Regression-Models](https://github.com/Jack-Analyst5/Regression-Models)
+# [Machine Learning](https://github.com/Jack-Analyst5/Machine-Learning-Regression-Models))
 
- House Price Prediction: MLR vs Random Forest
+As part of my Python learning, I have developed foundational knowledge in machine learning by applying regression models to real-world datasets. This has allowed me to build predictive models, evaluate their performance, and better understand how analytical techniques can support data-driven decision-making.
+House Price Prediction: MLR vs Random Forest
 
 ## Overview
 
