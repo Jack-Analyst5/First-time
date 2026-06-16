@@ -39,7 +39,7 @@ In addition, I have included screenshots from other tasks completed during my ti
 Through this work, I have built a strong foundation in working with real-world datasets, identifying trends, and delivering clear, data-driven insights. These projects reflect my ongoing growth and commitment to developing as a Data Analyst.
 
 # [Python](https://github.com/Jack-Analyst5/First-time/blob/main/Python)
-## Exploratory Data Analysis
+## [Exploratory Data Analysis](https://github.com/Jack-Analyst5/Exploratory-Data-Analysis/blob/main/Mission%203_%20Exploratory%20Data%20Analysis%20(EDA)%20with%20the%20Sales%20Dataset%20using%20Pandas%20and%20d%20Matplotlib_Seaborn%20(2).ipynb)
 Project Overview
 This project is part of my journey in learning Python. 
 
