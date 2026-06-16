@@ -39,7 +39,32 @@ In addition, I have included screenshots from other tasks completed during my ti
 Through this work, I have built a strong foundation in working with real-world datasets, identifying trends, and delivering clear, data-driven insights. These projects reflect my ongoing growth and commitment to developing as a Data Analyst.
 
 # [Python](https://github.com/Jack-Analyst5/First-time/blob/main/Python)
+## Exploratory Data Analysis
+Project Overview
+This project is part of my journey in learning Python. 
 
+Goal
+Application of Python for basic operations, Pandas for data manipulation, and Matplotlib/Seaborn for visualizations. 
+
+Dataset
+The dataset represents transaction data from a retail business, specifically sales data for products sold in various stores. 
+
+Tasks included: 
+Merging DataFrames
+Exploratory Data Analysis (EDA)- Conduct EDA by analysing the data, identifying patterns, trends, and outliers.
+Data Visualisation – Scatter Plot, Histogram, and Line Chart
+Correlation and Data Insights 
+Grouping and Aggregating
+
+Technologies
+Python
+Pandas
+Matplotlib
+Seaborn
+Microsoft Fabric
+Results
+
+Using Python and EDA techniques, I explored relationships between variables and identified key factors that influence outcomes. Visualizations helped highlight trends, correlations, and patterns within the dataset.
 
 # [SQL](https://github.com/Jack-Analyst5/SQL/edit/main/README.md)
 These are sample codes did for the course under this topic.
