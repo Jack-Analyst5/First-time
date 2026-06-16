@@ -24,7 +24,7 @@ My CV is available in [PDF](https://github.com/Jack-Analyst5/CV/blob/main/Jack_d
  
     
 
-- PYTHON
+- [PYTHON](https://github.com/Jack-Analyst5/First-time/blob/main/Python)
 
 ### Goal
 To determine which factors contribute the most to a movie's success.
