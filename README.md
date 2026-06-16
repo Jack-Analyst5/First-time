@@ -35,7 +35,7 @@ Access to the full project details—including processes, technical implementati
 
 Additionally, permission from Mission Ready HQ is required before any detailed information can be disclosed, as no prior approval has been granted. This is to ensure that all project materials are handled in accordance with organisational guidelines and confidentiality requirements.
 
-# [PYTHON](https://github.com/Jack-Analyst5/First-time/blob/main/Python)
+# [Python](https://github.com/Jack-Analyst5/First-time/blob/main/Python)
 
 ### Goal
 To determine which factors contribute the most to a movie's success.
@@ -64,6 +64,46 @@ The dataset is stored in Excel and imported into a Microsoft Fabric Notebook. It
 
 ### Results
 Using Python and EDA techniques, I explored relationships between variables and identified key factors that influence outcomes. Visualizations helped highlight trends, correlations, and patterns within the dataset.
+
+# Regression-Models
+
+ House Price Prediction: MLR vs Random Forest
+
+## Overview
+This project compares the performance of two regression models, Multiple Linear Regression (MLR) and Random Forest (RF), in predicting house prices. The aim is to determine which model produces more accurate predictions based on the dataset.
+---
+
+## Goal
+
+The study involves building predictive models using Multiple Linear Regression (MLR) and Random Forest (RF) techniques. The performance of these models is then evaluated using Root Mean Squared Error (RMSE) as the main metric. After assessing each model, their accuracy levels are compared to determine which performs better. Finally, different methods and approaches are identified to further improve overall model performance.
+---
+
+## Project Structure
+
+## Visualisation
+
+### Random Forest Model
+![RF Plot](rf_model.png)
+*Figure 1: Random Forest Predictions vs Actual Values*
+
+### Multiple Linear Regression Model
+![MLR Plot](mlr_model.png)
+*Figure 2: Multiple Linear Regression Predictions vs Actual Values*
+
+## Methodology
+
+The methodology involves training two models, Multiple Linear Regression (MLR) and Random Forest (RF), to make predictions. Their performance is evaluated using Root Mean Squared Error (RMSE) and by visually comparing predicted values with actual values.
+
+
+## Results
+Through this project, I explored different modelling approaches to better understand how well they could capture patterns within the data. Both models were able to generate predictions that aligned reasonably well with actual outcomes, demonstrating their ability to learn from the dataset.
+However, one model stood out with more consistent and reliable predictions. Its results were closer to the expected trend, which suggests that it was more effective in capturing the underlying relationships in the data. This comparison allowed me to see firsthand how different approaches can produce varying levels of accuracy, even when working with the same dataset.
+Overall, the results gave me valuable insight into how model selection impacts performance and how important it is to evaluate models beyond just surface-level outcomes.
+
+## Conclusion
+This project reinforced the importance of experimenting with different analytical approaches to better understand data and improve predictive performance. While both models showed potential, the differences in their results highlighted how the structure of the data can influence which method performs best.
+From a learning perspective, this experience helped me appreciate the full process of building and evaluating models—from preparing the data to interpreting the results. It also showed me that achieving better outcomes often requires continuous refinement, such as improving data quality, selecting meaningful features, and tuning models carefully.
+Overall, this project was a valuable step in my development as a Data Analyst. It strengthened not only my technical skills, but also my ability to think critically about data, assess model performance, and communicate insights in a clear and meaningful way.
 
 # [Power BI](https://github.com/Jack-Analyst5/Power-BI)
 Power BI TASK
