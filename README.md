@@ -133,5 +133,5 @@ Part of the course is to develop a Power BI dashboard, and the following screens
 
 
 
-- [Advanced Analytics Statistical modelling](https://github.com/Jack-Analyst5/repo/blob/main/notebooks/my_notebook.ipynb)
+
 
