@@ -20,7 +20,8 @@ My CV is available in [PDF](https://github.com/Jack-Analyst5/CV/blob/main/Jack_d
 - [Project Task](https://github.com/Jack-Analyst5/PROJECT-TASKS-)
   - [Introduction](https://github.com/Jack-Analyst5/PROJECT-TASKS)
   - [Python](https://github.com/Jack-Analyst5/First-time/blob/main/Python)
-    -- [Machine Learning](https://github.com/Jack-Analyst5/Machine-Learning-Regression-Models)
+    --[Exploratory Data Analysis](https://github.com/Jack-Analyst5/Exploratory-Data-Analysis/blob/main/Mission%203_%20Exploratory%20Data%20Analysis%20(EDA)%20with%20the%20Sales%20Dataset%20using%20Pandas%20and%20d%20Matplotlib_Seaborn%20(2).ipynb)
+    --[Machine Learning](https://github.com/Jack-Analyst5/Machine-Learning-Regression-Models)
   - [SQL](https://github.com/Jack-Analyst5/SQL)
   - [Power BI](https://github.com/Jack-Analyst5/Power-BI)
  
