@@ -132,10 +132,9 @@ These are some examples of my SQL tasks that I needed to do during the course. I
 Here are some examples of SQL queries and schema designs I created:
 
 
-![Schema Design 1](sql1.png)
-![Schema Design 2](sql1.png)
-![SQL Queries](sql3.png)
-
+[![Schema Design 1](images/schema1.png)](images/schema1.png)
+[![Schema Design 2](images/schema2.png)](images/schema2.png)
+[![SQL Queries](images/sql-queries.png)](images/sql-queries.png)
 
 # [Power BI](https://github.com/Jack-Analyst5/Power-BI)
 Power BI TASK
