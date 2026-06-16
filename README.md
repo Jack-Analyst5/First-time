@@ -25,8 +25,7 @@ My CV is available in [PDF](https://github.com/Jack-Analyst5/CV/blob/main/Jack_d
   - [Power BI](https://github.com/Jack-Analyst5/Power-BI)
  
 
-
-
+---
 
 
 # [PROJECT-TASKS](https://github.com/Jack-Analyst5/PROJECT-TASKS)
