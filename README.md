@@ -65,7 +65,7 @@ The dataset is stored in Excel and imported into a Microsoft Fabric Notebook. It
 ### Results
 Using Python and EDA techniques, I explored relationships between variables and identified key factors that influence outcomes. Visualizations helped highlight trends, correlations, and patterns within the dataset.
 
-# Regression-Models
+# [Regression-Models](https://github.com/Jack-Analyst5/Regression-Models)
 
  House Price Prediction: MLR vs Random Forest
 
