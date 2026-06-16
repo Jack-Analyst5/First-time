@@ -134,7 +134,7 @@ Here are some examples of SQL queries and schema designs I created:
 
 ![Schema Design 1](https://github.com/Jack-Analyst5/SQL/blob/main/sql1.png)
 ![Schema Design 2](https://github.com/Jack-Analyst5/SQL/blob/main/sql2.png)
-![SQL Queries](SQL/SQL%20Queri
+![SQL Queries](https://github.com/Jack-Analyst5/SQL/blob/main/sql3.png)
 
 
 # [Power BI](https://github.com/Jack-Analyst5/Power-BI)
