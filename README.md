@@ -112,7 +112,7 @@ This project reinforced the importance of experimenting with different analytica
 From a learning perspective, this experience helped me appreciate the full process of building and evaluating models—from preparing the data to interpreting the results. It also showed me that achieving better outcomes often requires continuous refinement, such as improving data quality, selecting meaningful features, and tuning models carefully.
 Overall, this project was a valuable step in my development as a Data Analyst. It strengthened not only my technical skills, but also my ability to think critically about data, assess model performance, and communicate insights in a clear and meaningful way.
 
-# SQL
+# [SQL](https://github.com/Jack-Analyst5/SQL/edit/main/README.md)
 These are sample codes did for the course under this topic.
 
 ## Overview: 
