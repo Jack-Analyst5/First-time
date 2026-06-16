@@ -67,7 +67,7 @@ Results
 
 Using Python and EDA techniques, I explored relationships between variables and identified key factors that influence outcomes. Visualizations helped highlight trends, correlations, and patterns within the dataset.
 
-# Machine Learning:Regression Models
+# [Machine Learning:Regression Models](https://github.com/Jack-Analyst5/Machine-Learning-Regression-Models)
 
  [House Price Prediction: MLR vs Random Forest](https://github.com/Jack-Analyst5/Machine-Learning-Regression-Models/blob/main/Mission%204_%20Predicting%20House%20Price%20with%20Multiple%20Linear%20Regression%20%20(5).ipynb)
 
