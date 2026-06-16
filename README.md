@@ -149,7 +149,7 @@ Part of the course is to develop a Power BI dashboard, and the following screens
 
 ![Sales Performance from 2015-2018](https://github.com/Jack-Analyst5/Power-BI/blob/main/PowerBI_2.png)
 
-![Customer Insights](PowerBI_3.png)
+![Customer Insights](https://github.com/Jack-Analyst5/Power-BI/blob/main/PowerBI_3.png)
 
 ![Year-to-Date Analysis](PowerBI_4.png)
 
