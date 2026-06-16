@@ -18,7 +18,7 @@ My CV is available in [PDF](https://github.com/Jack-Analyst5/CV/blob/main/Jack_d
 - [About](https://github.com/Jack-Analyst5/CV/blob/main/README.md#about)
   
 - [Project Task](https://github.com/Jack-Analyst5/PROJECT-TASKS-)
-  - [Introduction]
+  - [Introduction](https://github.com/Jack-Analyst5/PROJECT-TASKS)
   - [Python](https://github.com/Jack-Analyst5/First-time/blob/main/Python)
     -- [Regression Models](https://github.com/Jack-Analyst5/Regression-Models)
   - [SQL](https://github.com/Jack-Analyst5/SQL)
