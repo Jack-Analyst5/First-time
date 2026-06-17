@@ -11,7 +11,7 @@ I decided to enroll with Mission Ready HQ to deepen my knowledge in data analyti
 
 I’m passionate about using data to solve real-world problems and continuously improving my analytical skills. This repository showcases my skills, shares part of my projects, and tracks my progress in Data Analytics / Data Science related topics.
 
-My CV is available in [PDF](https://github.com/Jack-Analyst5/CV/blob/main/Jack_delos_Reyes_CV_Data_Analyst.pdf)
+My CV is available in [PDF](https://github.com/Jack-Analyst5/CV/blob/main/CV_Jack_delos_Reyes.pdf)
 
 
 ## TABLE OF CONTENTS
