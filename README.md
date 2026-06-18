@@ -42,7 +42,7 @@ Through this work, I have built a strong foundation in working with real-world d
 
 # [Python](https://github.com/Jack-Analyst5/First-time/blob/main/Python)
 ## [Exploratory Data Analysis](https://github.com/Jack-Analyst5/Exploratory-Data-Analysis/blob/main/Python%20-%20EDA%20(2).ipynb)
-Project Overview
+## Project Overview
 This project is part of my journey in learning Python. 
 This notebook demonstrates the use of Python, Pandas, Matplotlib, and Seaborn to perform Exploratory Data Analysis (EDA) on a retail sales dataset. The dataset contains transactional information from a retail business, including sales, invoices, products, stores, countries, quantities sold, and pricing details. The purpose of the analysis is to clean the data, understand its structure, identify trends, and generate insights through statistical analysis and visualizations.
 
@@ -53,20 +53,20 @@ In addition to visual analysis, the notebook performs grouping and aggregation o
 
 Overall, this notebook applies fundamental data analysis techniques to transform raw retail transaction data into meaningful business insights. It demonstrates how Python and Pandas can be used for data cleaning and summarization, while Matplotlib and Seaborn help visualize trends and patterns that support decision-making and business performance analysis.
 
-Goal
+## Goal
 Application of Python for basic operations, Pandas for data manipulation, and Matplotlib/Seaborn for visualizations. 
 
-Dataset
+## Dataset
 The dataset represents transaction data from a retail business, specifically sales data for products sold in various stores. 
 
-Tasks included: 
+## Tasks included: 
 Merging DataFrames
 Exploratory Data Analysis (EDA)- Conduct EDA by analysing the data, identifying patterns, trends, and outliers.
 Data Visualisation – Scatter Plot, Histogram, and Line Chart
 Correlation and Data Insights 
 Grouping and Aggregating
 
-Technologies
+## Technologies
 Python
 Pandas
 Matplotlib
